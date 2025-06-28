@@ -3,3 +3,38 @@ Project Name: Online Complaints Platform
                 Momin Nusrath
                 Polu Anitha
                 Soma Bhavani
+Project Overview: Online Platform Complaints System
+Project Title:
+Online Platform Complaints Management System
+
+Objective:
+To design and implement an online system that enables users to file, track, and resolve complaints against digital platforms (e.g., e-commerce, social media, streaming services) in a transparent and efficient manner.
+
+Background:
+With the rapid growth of online services, consumers increasingly face issues such as fraud, misinformation, poor service, or content violations. There is a growing need for a centralized digital solution that allows users to lodge complaints, and for regulators or platform providers to track and resolve them systematically.
+
+Key Features:
+User Registration and Authentication
+
+Secure sign-up/login for complainants and platform representatives.
+Complaint Submission
+
+Structured forms with category tags (e.g., harassment, scam, delivery issue).
+Ability to attach screenshots, videos, or documents.
+Complaint Tracking and Dashboard
+
+Real-time status updates (e.g., Submitted, Under Review, Resolved).
+Timeline view and notifications.
+Admin and Platform Interface
+
+Tools for reviewing, prioritizing, and responding to complaints.
+Analytics and reporting dashboards.
+Resolution Workflow
+
+SLA-based resolution timelines.
+Escalation system for unresolved or disputed cases.
+User Feedback and Rating
+
+Option for users to rate satisfaction with resolutions.
+Data Protection & Security
+
